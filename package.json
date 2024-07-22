@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "start": "^5.1.0",
+    "update": "^0.4.2"
+  }
+}
